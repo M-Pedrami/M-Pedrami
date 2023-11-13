@@ -6,7 +6,7 @@
 
 🧰 Toolbox
 
-<img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/>
+<img src="https://worldvectorlogo.com/download/javascript-1.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://worldvectorlogo.com/download/css-3.svg" alt="CSS Logo" width="50" height="50"/>
 
 <!---
 M-Pedrami/M-Pedrami is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

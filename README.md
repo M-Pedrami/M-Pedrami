@@ -14,6 +14,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Pedrami&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![M-Pedrami GitHub stats](https://github-readme-stats.vercel.app/api?username=M-Pedrami&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+<h2>🏆 My GitHub Achievements</h2>
+[![trophy](https://github-profile-trophy.vercel.app/?username=M-Pedrami&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!---
 M-Pedrami/M-Pedrami is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

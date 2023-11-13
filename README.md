@@ -7,7 +7,7 @@
 🧰 Toolbox
 
 <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="CSS Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="CSS Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" alt="CSS Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/github-icon-2.svg" alt="CSS Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="CSS Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="CSS Logo" width="50" height="50"/> <br/>
-<img src="https://cdn.worldvectorlogo.com/logos/rapid-api.svg" alt="JavaScript Logo" width="100" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/rapid-api.svg" alt="JavaScript Logo" width="100" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="CSS Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="JavaScript Logo" width="110" height="70"/>
 
 <!---
 M-Pedrami/M-Pedrami is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

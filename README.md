@@ -22,7 +22,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=M-Pedrami&theme=onedark" alt="trophy" />
 </a>
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="maziar-pedrami" data-version="v1">
 
 <!---
 M-Pedrami/M-Pedrami is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
